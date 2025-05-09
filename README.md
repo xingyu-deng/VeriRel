@@ -7,7 +7,7 @@ Please use the provided code from [MultiVerS](https://github.com/dwadden/multive
 
 For different negative sampling strategies, we have only made minor changes in data_train.py for adding new trainset frameworks. 
 
-To force the model output probabilities, we have made minor changes to predict.py. We add an argument 'format', where the model predicts the result as set to 'result' in inference, and produces probabilities for subsequent calculating ComboScorer as set to 'prob'. The changed versions are presented in the folder.
+To force the model output probabilities, we have made minor changes to predict.py. We add an argument 'format', where the model predicts the result as set to 'result' in inference, and produces probabilities for subsequent calculating ComboScorer as set to 'prob'. The changed versions are presented in the folder of V_MultiVerS.
 
 ## T5-3B settings
 For reproducibility of T5-3B reranker, please use [PyGaggle](https://github.com/castorini/pygaggle) with the provided code in the folder.
