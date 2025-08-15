@@ -12,6 +12,9 @@ To force the model output probabilities, we have made minor changes to predict.p
 ## T5-3B settings
 For reproducibility of T5-3B reranker, please use [PyGaggle](https://github.com/castorini/pygaggle) with the provided code in the folder.
 
+## Verification Evaluation
+See  [SCIVER](https://github.com/allenai/scifact) shared task.
+
 
 ## Experiment settings
 All training experiments set the random seed to 27 in our study, using a single NVIDIA A100 GPU.
