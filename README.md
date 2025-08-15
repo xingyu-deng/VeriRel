@@ -13,7 +13,7 @@ To force the model output probabilities, we have made minor changes to predict.p
 For reproducibility of T5-3B reranker, please use [PyGaggle](https://github.com/castorini/pygaggle) with the provided code in the folder.
 
 ## Verification Evaluation
-See  [SCIVER](https://github.com/allenai/scifact) shared task.
+See  [SCIVER](https://github.com/allenai/scifact) shared task for provided code and leaderboard.
 
 
 ## Experiment settings
